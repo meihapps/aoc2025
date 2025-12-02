@@ -4,8 +4,11 @@ This is my repository for Advent of Code 2025. This will include my solutions fo
 
 Project Structure:
 ```
-<day_number>
-├ <day_number>.py
-├ <day_number>_sample.txt
-└ README.md
+.
+├─year_<year_number>
+│ └─day_<day_number>
+│   ├─solution.py
+│   ├─sample_input.txt
+│   └─README.md
+└─main.py
 ```
